@@ -1,6 +1,4 @@
-# fork MoneyForward Payroll
-
-official: https://biz.moneyforward.com/payroll/
+# MoneyForward Payroll replica
 
 ## What's inside?
 
@@ -64,3 +62,6 @@ This Turborepo has some additional tools already setup for you:
 - [Jest](https://jestjs.io) test runner for all things JavaScript
 - [Prettier](https://prettier.io) for code formatting
 
+## Refs
+
+- https://biz.moneyforward.com/payroll/
